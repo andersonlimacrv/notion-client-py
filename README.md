@@ -208,13 +208,13 @@ Contribuições são bem-vindas! Sinta-se à vontade para [abrir pull requests](
 [twitter-shield]: https://img.shields.io/badge/Twitter-1D9BF0.svg?&logo=Twitter&logoColor=white&style=plastic
 
 <!-- MARKDOWN LINKS -->
-[contributors-shield]: https://img.shields.io/github/contributors/andersonlimacrv/readme-project-boilerplate.svg?style=plastic
-[contributors-url]: https://github.com/andersonlimacrv/readme-project-boilerplate/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/andersonlimacrv/readme-project-boilerplate.svg?style=plastic
-[forks-url]: https://github.com/andersonlimacrv/readme-project-boilerplate/network/members
-[stars-shield]: https://img.shields.io/github/stars/andersonlimacrv/readme-project-boilerplate.svg?style=plastic
-[stars-url]: https://github.com/andersonlimacrv/readme-project-boilerplate/stargazers
-[issues-shield]: https://img.shields.io/github/issues/andersonlimacrv/readme-project-boilerplate.svg?style=plastic
-[issues-url]: https://github.com/andersonlimacrv/readme-project-boilerplate/issues
-[license-shield]: https://img.shields.io/github/license/andersonlimacrv/readme-project-boilerplate.svg?style=plastic
-[license-url]: https://github.com/andersonlimacrv/readme-project-boilerplate/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/andersonlimacrv/notion-client-py.svg?style=plastic
+[contributors-url]: https://github.com/andersonlimacrv/notion-client-py/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/andersonlimacrv/notion-client-py.svg?style=plastic
+[forks-url]:https://github.com/andersonlimacrv/notion-client-py/network/members
+[stars-shield]: https://img.shields.io/github/stars/andersonlimacrv/notion-client-py.svg?style=plastic
+[stars-url]: https://github.com/andersonlimacrv/notion-client-py/stargazers
+[issues-shield]: https://img.shields.io/github/issues/andersonlimacrv/notion-client-py.svg?style=plastic
+[issues-url]: https://github.com/andersonlimacrv/notion-client-py/issues
+[license-shield]: https://img.shields.io/github/license/andersonlimacrv/notion-client-py.svg?style=plastic
+[license-url]: https://github.com/andersonlimacrv/notion-client-py/blob/master/LICENSE.txt
