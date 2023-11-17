@@ -1,6 +1,6 @@
 # Notion SDK para Python
 
-Este repositório fornece uma biblioteca cliente Python para interagir com a API do Notion usando a biblioteca oficial do Notion SDK para JavaScript.
+Este repositório fornece uma biblioteca cliente Python para interagir com a API do Notion usando a biblioteca oficial do Notion SDK para JavaScript ou Python.
 
 ## Instalação
 
