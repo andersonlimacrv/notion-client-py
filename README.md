@@ -217,4 +217,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para [abrir pull requests](
 [issues-shield]: https://img.shields.io/github/issues/andersonlimacrv/notion-client-py.svg?style=plastic
 [issues-url]: https://github.com/andersonlimacrv/notion-client-py/issues
 [license-shield]: https://img.shields.io/github/license/andersonlimacrv/notion-client-py.svg?style=plastic
-[license-url]: https://github.com/andersonlimacrv/notion-client-py/blob/master/LICENSE.txt
+[license-url]: https://github.com/andersonlimacrv/notion-client-py/blob/main/LICENSE
