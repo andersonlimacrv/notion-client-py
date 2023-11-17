@@ -13,7 +13,7 @@ npm install @notionhq/client
 Além disso, você precisará da biblioteca `notion_client` para Python. Certifique-se de instalar esta biblioteca usando:
 
 ```bash
-pip install notion-sdk-python
+pip install notion-client
 ```
 
 ## Uso

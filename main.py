@@ -1,14 +1,15 @@
 from notion_client import Client
 import pprint
+import os
+from dotenv import load_dotenv
 
+load_dotenv()
 
-notion_token = "secret_v3XgxqTlVceirOoP5k81XD0aPkDfjK4btLGPIo2gdUt"
-notion_page_id = "d795e0a64647446e88d9bdfde79872b6"
-notion_database_id = ""
-
+notion_token = os.environ.get("NOTION_TOKEN")
+notion_page_id = os.environ.get("NOTION_PAGE_ID")
+notion_database_id = os.environ.get("NOTION_DATABASE_ID")
 
 # simplepage_url = https://www.notion.so/teste-d795e0a64647446e88d9bdfde79872b6
-
 
 # database_url = https://www.notion.so/Blog-Database-3129ecab36b74596ab52783ccd8340ff
 
