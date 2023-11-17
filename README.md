@@ -1,3 +1,15 @@
+<div align="center">
+    
+[![Autor][autor-shield]][autor-url] [![Autor][autor-description]][autor-url] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![LinkedIn][linkedin-shield]][linkedin-url] [![Whatsapp][whatsapp-shield]][whatsapp-url] [![Gmail][gmail-shield]][gmail-url]
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+  
+</div>
+
 # Notion SDK para Python
 
 Este repositório fornece uma biblioteca cliente Python para interagir com a API do Notion usando a biblioteca oficial do Notion SDK para JavaScript ou Python.
@@ -168,3 +180,41 @@ Para obter mais detalhes sobre a API do Notion e opções adicionais de integra�
 Contribuições são bem-vindas! Sinta-se à vontade para [abrir pull requests](https://github.com/seu-username/seu-repositorio-python/fork) ou propor melhorias neste repositório.
 
 **Observação:** Certifique-se de respeitar os [padrões de código Python](https://www.python.org/dev/peps/pep-0008/) ao contribuir para este projeto. Recomendamos que você faça um [fork do repositório](https://docs.github.com/pt/get-started/quickstart/fork-a-repo) antes de realizar alterações.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+<!--   Screenshot's   -->
+[product-screenshot]: README/preview/screenshot.png
+[top-language]: https://img.shields.io/github/languages/top/andersonlimacrv/3d-saas-shirt?&labelColor=141321&color=00ACAC
+[autor-shield]: https://img.shields.io/badge/Autor-00acac?
+[autor-url]: https://github.com/andersonlimacrv/
+[autor-description]: https://img.shields.io/badge/Anderson%20Carvalho-%20Fullstack%20Software%20Developer-141321?labelColor=141321
+
+<!-- MARKDOWN SOCIAL MEDIA-->
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white&style=plastic
+[linkedin-url]: https://linkedin.com/in/andersonlimacrv
+[facebook-url]: https://facebook.com/andersonlimacrv
+[facebook-shield]: https://img.shields.io/badge/Facebook-%231877F2.svg?&logo=Facebook&logoColor=white&style=plastic
+[gmail-url]: mailto:andersonlimacrv@gmail.com
+[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white&style=plastic
+[whatsapp-url]: https://wa.me/5553981004874
+[whatsapp-shield]: https://img.shields.io/badge/WhatsApp-25D366?&logo=whatsapp&logoColor=white&style=plastic
+[twitter-url]: https://twitter.com/andersoncrvl
+[twitter-shield]: https://img.shields.io/badge/Twitter-1D9BF0.svg?&logo=Twitter&logoColor=white&style=plastic
+
+<!-- MARKDOWN LINKS -->
+[contributors-shield]: https://img.shields.io/github/contributors/andersonlimacrv/readme-project-boilerplate.svg?style=plastic
+[contributors-url]: https://github.com/andersonlimacrv/readme-project-boilerplate/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/andersonlimacrv/readme-project-boilerplate.svg?style=plastic
+[forks-url]: https://github.com/andersonlimacrv/readme-project-boilerplate/network/members
+[stars-shield]: https://img.shields.io/github/stars/andersonlimacrv/readme-project-boilerplate.svg?style=plastic
+[stars-url]: https://github.com/andersonlimacrv/readme-project-boilerplate/stargazers
+[issues-shield]: https://img.shields.io/github/issues/andersonlimacrv/readme-project-boilerplate.svg?style=plastic
+[issues-url]: https://github.com/andersonlimacrv/readme-project-boilerplate/issues
+[license-shield]: https://img.shields.io/github/license/andersonlimacrv/readme-project-boilerplate.svg?style=plastic
+[license-url]: https://github.com/andersonlimacrv/readme-project-boilerplate/blob/master/LICENSE.txt
