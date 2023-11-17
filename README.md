@@ -1,12 +1,13 @@
 <div align="center">
     
-[![Autor][autor-shield]][autor-url] [![Autor][autor-description]][autor-url] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![LinkedIn][linkedin-shield]][linkedin-url] [![Whatsapp][whatsapp-shield]][whatsapp-url] [![Gmail][gmail-shield]][gmail-url]
+[![Autor][autor-shield]][autor-url] [![Autor][autor-description]][autor-url]  
+[![LinkedIn][linkedin-shield]][linkedin-url] [![Whatsapp][whatsapp-shield]][whatsapp-url] [![Gmail][gmail-shield]][gmail-url]
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+
   
 </div>
 
@@ -193,7 +194,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para [abrir pull requests](
 [top-language]: https://img.shields.io/github/languages/top/andersonlimacrv/3d-saas-shirt?&labelColor=141321&color=00ACAC
 [autor-shield]: https://img.shields.io/badge/Autor-00acac?
 [autor-url]: https://github.com/andersonlimacrv/
-[autor-description]: https://img.shields.io/badge/Anderson%20Carvalho-%20Fullstack%20Software%20Developer-141321?labelColor=141321
+[autor-description]: https://img.shields.io/badge/Anderson%20Carvalho-141321?labelColor=141321
 
 <!-- MARKDOWN SOCIAL MEDIA-->
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white&style=plastic
